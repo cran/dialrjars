@@ -1,0 +1,11 @@
+5135a463e76795124eddd4b5b0bd9f7f *DESCRIPTION
+7e0cf75261233d9164c81be0dae9553b *NAMESPACE
+acd47bcdf48177f70c8bd748238b8c83 *NEWS.md
+33bd53a547b43f93abc9ee8314e48267 *R/dialrjars.R
+60218f32addf8be9d8a256ece750b91a *README.md
+de64830aa9f793c418b5e8c72d84609f *inst/COPYRIGHTS
+e5c33432cf865fb4e2feb481b4a4d893 *inst/java/libphonenumber-8.10.9.jar
+57b2b6e115b9e9a179ed05e64a650501 *java/README
+7d4c3c9be1cd3cab77bf7ae7bab94296 *man/dialrjars-package.Rd
+bb72737242df1432628e85a47c1bf02f *tests/testthat.R
+c07d3ae9536eae91e409d368fa49315c *tests/testthat/test-dialrjars.R
