@@ -2,10 +2,9 @@
 # dialrjars
 
 <!-- badges: start -->
-[![lifecycle](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
+[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 [![CRAN status](https://www.r-pkg.org/badges/version/dialrjars)](https://cran.r-project.org/package=dialrjars)
-[![Travis build status](https://travis-ci.org/socialresearchcentre/dialrjars.svg?branch=master)](https://travis-ci.org/socialresearchcentre/dialrjars)
-[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/socialresearchcentre/dialrjars?branch=master&svg=true)](https://ci.appveyor.com/project/gorcha/dialrjars)
+[![R-CMD-check](https://github.com/socialresearchcentre/dialrjars/workflows/R-CMD-check/badge.svg)](https://github.com/socialresearchcentre/dialrjars/actions)
 <!-- badges: end -->
 
 ## Overview
