@@ -1,7 +1,7 @@
 Type: Package
 Package: dialrjars
 Title: Required 'libphonenumber' jars for the 'dialr' Package
-Version: 8.12.54
+Version: 8.13.2
 Authors@R: 
     c(person(given = "Danny",
              family = "Smith",
@@ -35,7 +35,7 @@ Encoding: UTF-8
 NeedsCompilation: no
 RoxygenNote: 7.1.1
 SystemRequirements: java (>= 1.6)
-Packaged: 2022-08-25 02:53:47 UTC; danny
+Packaged: 2022-12-08 00:08:43 UTC; danny.smith
 Author: Danny Smith [aut, cre],
   Google Inc. [ctb, cph] (libphonenumber),
   Vonage Holdings Corp. [ctb, cph] (libphonenumber),
@@ -43,4 +43,4 @@ Author: Danny Smith [aut, cre],
   Ben Gertzfield [ctb, cph] (libphonenumber)
 Maintainer: Danny Smith <danny@gorcha.org>
 Repository: CRAN
-Date/Publication: 2022-08-25 03:22:34 UTC
+Date/Publication: 2022-12-08 00:20:02 UTC
